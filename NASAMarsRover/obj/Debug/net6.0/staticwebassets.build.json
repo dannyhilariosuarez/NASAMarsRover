@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2ByHyLzgK8JyjcrKNdRS+kdg0itYYCqsxZzgfcJX4Zc=",
+  "Source": "NASAMarsRover",
+  "BasePath": "_content/NASAMarsRover",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
